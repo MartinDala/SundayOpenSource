@@ -1,5 +1,6 @@
 ## 🚀 SundayOpenSource 🚀
  
+ | <img src="https://github.com/MartinDala/SundayOpenSource/blob/main/logo.png" width="250"> |
  E ai Dev Moderno, Tudo bom? 🖖
 
  SundayOpenSource ou SundayCommit, é um desafio que visa ajudá-lo a melhorar suas habilidades de codificação fazendo  projetos de qualquer escala para por no seu github utilizando qualquer tecnologia que desejar 
